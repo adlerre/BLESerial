@@ -1,4 +1,4 @@
-# BLESerial based on NimBLE library [![PlatformIO Registry](https://badges.registry.platformio.org/packages/adlerre/library/BLESerial.svg)](https://registry.platformio.org/libraries/adlerre/BLESerial)
+# BLESerial - a serial client based on NimBLE library [![PlatformIO Registry](https://badges.registry.platformio.org/packages/adlerre/library/BLESerial.svg)](https://registry.platformio.org/libraries/adlerre/BLESerial)
 
 ## Install
 
