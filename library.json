@@ -14,7 +14,7 @@
       "maintainer": true
     }
   ],
-  "license": "GPLv3",
+  "license": "GPL-3.0-or-later",
   "dependencies": {
     "h2zero/NimBLE-Arduino": "^2.2.3"
   },
